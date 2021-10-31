@@ -1,0 +1,32 @@
+.not-found {
+  margin: 100px;
+  text-align: center;
+}
+.back {
+  margin: 30px;
+}
+.not-found h1 {
+  font-size: 150px;
+  line-height: 150px;
+  font-weight: bold;
+}
+.not-found h3 {
+  margin-top: 20px;
+  font-size: 30px;
+}
+.btn-home {
+  text-align: left;
+  line-height: 25px;
+  letter-spacing: 2px;
+  font-weight: 700;
+  border-color: rgb(255, 255, 255);
+  border-style: none;
+  margin: 0px;
+  border-radius: 60px;
+  padding: 16px 32px;
+  color: #ffffff;
+  background-color: #396fe0;
+}
+.btn-stlye:hover {
+  background-color: rgb(34, 34, 34);
+}

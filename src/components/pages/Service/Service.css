@@ -1,0 +1,15 @@
+.service img {
+  width: 100%;
+}
+.service-text {
+  border: 1px solid rgb(199, 199, 199);
+  padding: 20px;
+}
+.service-text p {
+  margin-left: -10px !important;
+}
+.service-card:hover img {
+  overflow: hidden;
+  transform: scale(1.2);
+  transition: transform 0.3s;
+}

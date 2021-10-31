@@ -1,0 +1,45 @@
+.banner {
+  background-image: url("../../../images/slider2_2.jpg"),
+    linear-gradient(rgb(25 62 90 / 50%), rgb(76 54 9 / 50%));
+  width: 100%;
+  background-blend-mode: overlay;
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+  text-align: center;
+  padding: 120px;
+  color: aliceblue;
+  font-family: "Poppins", sans-serif;
+  font-weight: 600;
+}
+.banner-text {
+  justify-content: center;
+  margin: 30px;
+}
+.banner-text h5 {
+  font-size: 18px !important;
+  font-weight: normal;
+}
+.banner-text h1 {
+  font-size: 43px;
+}
+.banner-text p {
+  font-size: 16px;
+  font-weight: normal;
+}
+.btn-style {
+  text-align: left;
+  line-height: 25px;
+  letter-spacing: 2px;
+  font-weight: 700;
+  border-color: rgb(255, 255, 255);
+  border-style: none;
+  margin: 0px;
+  border-radius: 60px;
+  padding: 16px 32px;
+  color: #ffffff;
+  background-color: #396fe0;
+}
+.btn-style:hover {
+  background-color: rgb(34, 34, 34);
+}
